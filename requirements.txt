@@ -1,0 +1,13 @@
+# Dependências da reprodução do SISSA (além do PyTorch, que já vem no Colab).
+# Para uso local, instale também o PyTorch conforme sua GPU (ver pytorch.org).
+torch
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+ruamel.yaml
+torchinfo
+concurrent_log_handler
+gdown
+py7zr

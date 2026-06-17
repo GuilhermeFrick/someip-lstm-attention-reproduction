@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Repo dos autores clonado localmente (não versionar aqui)
+SISSA/
+
+# Dados e saídas
+*.7z
+*.npy
+results/
+
+# OS
+Thumbs.db
+.DS_Store
